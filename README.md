@@ -9,16 +9,13 @@ First, make sure you have Node.js and npm (Node.js package manager) installed on
    ```bash
    npm install
 
-To run the project test:
+To run the project test and implement the project:
 
    ```bash
    npm test
-
-
-To implement the project:
-
-   ```bash
    npm run dev
+
+
 
 
 
