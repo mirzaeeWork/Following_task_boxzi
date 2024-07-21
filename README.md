@@ -14,6 +14,10 @@ To implement the project:
    ```bash
    npm run dev
 
+To run the project test:
+
+   ```bash
+   npm test
 
 
 
