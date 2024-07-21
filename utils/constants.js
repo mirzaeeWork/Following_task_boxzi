@@ -1,0 +1,17 @@
+export const UserResponseMessages = {
+    ERROR_USER_NAME: 'Username must contain at least 3 characters.',
+    ERROR_VALID_ID: 'The ID is not valid.',
+    ERROR_IDS_SAME: 'IDs cannot be the same.',
+    ERROR_EXIST_USER:'Exist username',
+    CREATED: 'User created successfully.',
+    ALL_USER: 'List of users.',
+    ERROR_UPDATE_FOLLOWING: 'Already following or user not found.',
+    ERROR_UPDATE_FOLLOWERS: 'Already followers or user not found.',
+    ERROR_UPDATE_UNFOLLOWING: 'Not following or user not found.',
+    ERROR_UPDATE_UNFOLLOWERS: 'Not followers or user not found.',
+    UPDATE_FOLLOW: 'Followed successfully.',
+    UPDATE_UNFOLLOW: 'Unfollowed successfully.',
+    SHOW_FOLLOWERS: 'Show the number of followers of each user on a daily.',
+    NOT_FOUND: 'User not found.',
+    COMMON_FOLLOWERS: 'Show common followers for two users',
+};
